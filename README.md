@@ -27,8 +27,8 @@ Install the required modules with: pip install python-docx
 
 ## Getting Started
 
-1. Clone the repository: git clone [Your Repository URL]
-2. Navigate to the directory and run the script: python [script_name].py
+1. Clone the repository: git clone https://github.com/Bisalkumar/Invoice-Maker.git
+2. Navigate to the directory and run the script: python main.py
 
 
 ## How to Use
